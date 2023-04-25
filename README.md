@@ -6,7 +6,7 @@ converter.sh FileName.FileExtension. (Will create a folder in same base file fol
 
 Script using ffpb to get progress bar (pip install ffpb)
 
-For windows user, recommended to put "ffmpeg.exe" into "C:\Windows\System32"
+For windows user, recommended to put all "ffmpeg" bin files into "C:\Windows\System32"
 
 Copy converter.sh into "C:\Windows\System32"
 
